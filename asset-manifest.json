@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/huxleydemo/static/css/main.073c9b0a.css",
-    "main.js": "/huxleydemo/static/js/main.59e622cc.js",
-    "static/js/787.332053e2.chunk.js": "/huxleydemo/static/js/787.332053e2.chunk.js",
-    "static/media/logo.svg": "/huxleydemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/huxleydemo/static/css/main.70089dac.css",
+    "main.js": "/huxleydemo/static/js/main.348e8f37.js",
+    "static/media/bg.jpg": "/huxleydemo/static/media/bg.9bbd4f57087deb71733a.jpg",
+    "static/media/issue2.jpg": "/huxleydemo/static/media/issue2.8b7c262a54cdb326b5fb.jpg",
+    "static/media/issue5.jpg": "/huxleydemo/static/media/issue5.de22c5cfbf1019466b97.jpg",
+    "static/media/issue4.jpg": "/huxleydemo/static/media/issue4.be7945f53ee6b2b0be18.jpg",
+    "static/media/issue6.jpg": "/huxleydemo/static/media/issue6.7484bdd43755a5f5427c.jpg",
+    "static/media/issue3.jpg": "/huxleydemo/static/media/issue3.1abc35057ee4f7e0466d.jpg",
+    "static/media/issue1.jpg": "/huxleydemo/static/media/issue1.d672a5e23913abb2cda3.jpg",
+    "static/media/team1.jpg": "/huxleydemo/static/media/team1.97fae81d83da5d61df4b.jpg",
+    "static/media/team2.jpg": "/huxleydemo/static/media/team2.bbe652543b50bd2d071a.jpg",
+    "static/media/team4.jpg": "/huxleydemo/static/media/team4.dafb0c6f8e97dbe70478.jpg",
+    "static/media/team3.jpg": "/huxleydemo/static/media/team3.eaae8bb492b65b9ffef6.jpg",
     "index.html": "/huxleydemo/index.html",
-    "main.073c9b0a.css.map": "/huxleydemo/static/css/main.073c9b0a.css.map",
-    "main.59e622cc.js.map": "/huxleydemo/static/js/main.59e622cc.js.map",
-    "787.332053e2.chunk.js.map": "/huxleydemo/static/js/787.332053e2.chunk.js.map"
+    "main.70089dac.css.map": "/huxleydemo/static/css/main.70089dac.css.map",
+    "main.348e8f37.js.map": "/huxleydemo/static/js/main.348e8f37.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.59e622cc.js"
+    "static/css/main.70089dac.css",
+    "static/js/main.348e8f37.js"
   ]
 }
